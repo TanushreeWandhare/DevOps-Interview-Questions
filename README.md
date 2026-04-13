@@ -23,7 +23,7 @@ __Jenkins__
     Your team is considering migrating from a traditional Jenkins setup to Jenkins Pipelines (Jenkinsfile). Explain the benefits of using Jenkins Pipelines and the steps you would take to migrate existing jobs.
 ```
 
-__Docker__
+__Docker__     __13/4__
 ```yaml
   common:
     What is Docker, and how does it differ from traditional virtualization?
