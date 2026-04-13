@@ -1,4 +1,4 @@
-__IAM__
+__IAM__      __14/4__
 ```yaml
 IAM:
   How do you control access to AWS services and resources using IAM?
@@ -18,7 +18,7 @@ IAM:
   Your organization is migrating on-premises applications to AWS. How would you ensure a seamless transition for user authentication and authorization using AWS IAM?
   Your organization has adopted AWS Organizations to manage multiple AWS accounts. How would you enforce IAM best practices and policies across these accounts efficiently?
 ```
-__S3__
+__S3__      __15/4__
 ```yaml
 S3:
   What is Amazon S3, and what is its primary purpose within the AWS ecosystem?
@@ -49,7 +49,7 @@ S3:
   Discuss the advantages and considerations of using Amazon S3 as a content delivery solution (S3 as a static website host or through Amazon CloudFront).
 ```
 
-__EC2__
+__EC2__      __16/4__
 ```yaml
 EC2:
   What is an EC2 instance type, and how do you choose the right one for your application?
@@ -88,7 +88,7 @@ EC2:
   Describe the difference between EBS-backed and instance-store-backed EC2 instances and their respective advantages and limitations.
   How can you monitor the performance and health of EBS volumes, and what AWS services or tools can assist in this process?
 ```
-__AUTO-SCALING__
+__AUTO-SCALING__     __17/4__
 ```yaml
 Auto-scaling:
   Explain the primary components of AWS Auto Scaling.
@@ -107,7 +107,7 @@ Auto-scaling:
   What are lifecycle hooks in Auto Scaling, and how can they be used for advanced customization of instance scaling actions?
   Explain the concept of mixed instances in an Auto Scaling group and its benefits.
 ```
-__LOAD-BALANCING__
+__LOAD-BALANCING__     __21/4__
 ```yaml
 Load-balancing:
   When would you choose an Application Load Balancer (ALB) over a Network Load Balancer (NLB), and vice versa?
@@ -123,7 +123,7 @@ Load-balancing:
   What are blue-green deployments, and how can AWS load balancers be used to facilitate this deployment strategy?
 
 ```
-__VPC__
+__VPC__     __22/4__
 ```yaml
 VPC:
   What is Amazon Virtual Private Cloud (Amazon VPC), and why is it important in AWS networking?
@@ -142,7 +142,7 @@ VPC:
   Discuss strategies for managing and optimizing VPC resources, including IP address allocation, subnet sizing, and route table design.
   What are the considerations when setting up VPCs in a multi-region or global configuration for disaster recovery or load balancing?
 ```
-__Route53__
+__Route53__       __23/4__
 ```yaml
 Route53:
   What are top-level domains (TLDs) and second-level domains, and how do they relate to Route 53?
@@ -159,8 +159,8 @@ Route53:
   Give examples of scenarios where you would use Route 53 for global load balancing, failover, or disaster recovery.
   Explain how you can use Route 53 in conjunction with AWS services like Elastic Load Balancing (ELB) for scalable and resilient architectures.
   Explain different types of records in RT53(Like A, AAAA, NS, SOA, etc.)
-```
-__RDS__
+``` 
+__RDS__     __24/4__
 ```yaml
 RDS:
   Explain the primary database engines supported by Amazon RDS.
@@ -178,7 +178,7 @@ RDS:
   Discuss best practices for maintaining and optimizing the performance and cost of Amazon RDS instances over time.
 
 ```
-__Lambda__
+__Lambda__      __25/4__
 ```yaml
 Lambda:
   What programming languages are supported for writing Lambda functions, and how can you package and deploy them?
