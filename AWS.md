@@ -4,7 +4,7 @@ IAM:
   How do you control access to AWS services and resources using IAM?
   Explain the difference between an AWS user, group, role, and policy.
   What are the best practices for creating and managing IAM users in AWS?
-        $${\color{white}White}$$To create and manage IAM users securely in AWS, I follow several best practices using AWS Identity and Access Management (IAM).
+        $${\color{white}White}To create and manage IAM users securely in AWS, I follow several best practices using AWS Identity and Access Management (IAM).
 
         First, I always follow the principle of least privilege, meaning users are granted only the permissions they need to perform their             tasks, nothing more.
         
