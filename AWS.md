@@ -13,7 +13,7 @@ IAM:
         Additionally, I enforce strong password policies, such as minimum length, complexity, and periodic rotation.
          I also regularly review and audit permissions using tools like IAM Access Analyzer and remove unused users or permissions to reduce            security risks.
        Finally, I follow the practice of tagging IAM resources and maintaining proper documentation for better management and tracking.
-       “Overall, my focus is on minimizing risk by using least privilege, temporary credentials, and continuous monitoring.”
+       “Overall, my focus is on minimizing risk by using least privilege, temporary credentials, and continuous monitoring.”:
 
 
   How do you enable multi-factor authentication (MFA) for AWS IAM users?
